@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm pooria mirkhabaz</h1>
 <h3 align="center">A passionate JavaScript Developer from Iran - React JS - Node jS</h3>
 
-- 🔭 I’m currently working on [TechBlog](https://github.com/pooriaMirkhabaz/techblog)
+- 🔭 I’m currently working on [TranseXPort_backend](https://github.com/sasansafari/transexport_backend)
 
 - 🌱 I’m currently learning **Next JS & Nest JS**
 
