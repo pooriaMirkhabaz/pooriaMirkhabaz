@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Software Engineer and Co-founder at [LunycAgency](https://utdallas.edu/](https://www.lunyxagency.com)
+I am Software Engineer and Co-founder at [LunycAgency](https://www.lunyxagency.com] 
 
 [![Linkedin Badge](https://www.linkedin.com/in/pooria-mirkhabaz-372085242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv1VI%2BXkZRp%2BU0MszTtOWHQ%3D%3D)
 
