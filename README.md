@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm pooria mirkhabaz</h1>
+<h2 align="center">Hi, I'm pooria mirkhabaz</h1>
 <h3 align="center">Senior Backend Developer</h3>
 
 - 🔭 I’m currently working on [mr-building]([https://github.com/sasansafari/transexport_backend](https://github.com/Lunyx-Agency/Mr.b-Backend-Code-base))
