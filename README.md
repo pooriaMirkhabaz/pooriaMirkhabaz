@@ -1,13 +1,7 @@
 <h2 align="center">Hi 👋, I'm pooria mirkhabaz</h1>
-<h3 align="center">A passionate JavaScript Developer from Iran - React JS - Node jS</h3>
+<h3 align="center">Senior Backend Developer</h3>
 
-- 🔭 I’m currently working on [TranseXPort_backend](https://github.com/sasansafari/transexport_backend)
-
-- 🌱 I’m currently learning **Next JS & Nest JS**
-
-- 💬 Ask me about **React JS & Node JS**
-
-- 📫 How to reach me **p.mirkhabaz@gmail.com**
+- 🔭 I’m currently working on [mr-building]([https://github.com/sasansafari/transexport_backend](https://github.com/Lunyx-Agency/Mr.b-Backend-Code-base))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
