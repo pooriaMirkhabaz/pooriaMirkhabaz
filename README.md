@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Software Engineer and Co-founder at [LunycAgency](https://www.lunyxagency.com)
+I am Software Engineer
 
 ## ⚡ Technologies
 
